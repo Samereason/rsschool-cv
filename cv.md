@@ -17,7 +17,7 @@ My goal is to become a strong front-end developer.
 Knowledge: HTML, CSS (flexbox, grid), Javascript (ES5-ES6+, Angular).<br/>
 I have experience with: git, less, jquery, bootstrap, scrum methodology.
 
-## Expierence
+## Experience
 
 Worked for 1 year in **Tascombank** as junior front-end.
 
